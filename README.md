@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Rodrigo Ivo!
 
-<!--
-**roddrigoivo/roddrigoivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor | 💡 Entusiasta de [tecnologias ou áreas de interesse]  
+📍 Localização: [Sua cidade/país]  
+📫 Entre em contato: [seu.email@exemplo.com] | [LinkedIn](https://linkedin.com/in/seu-usuario)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e desenvolvimento de soluções criativas. Trabalho com:
+
+- 💻 Linguagens: Python, JavaScript, [outras]
+- 🔧 Ferramentas: Git, Docker, VSCode, [outras]
+- 🌐 Frameworks: React, Node.js, Django, [outros]
+
+Atualmente estou:
+
+- 🧠 Aprendendo: [Tecnologia que você está estudando]
+- 👨‍💻 Trabalhando em: [Projeto atual]
+- 📚 Escrevendo sobre: [Tópico que você escreve, se for o caso]
+
+---
+
+## 🧰 Portfólio de Projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Nome do Projeto 1](link-do-repo) | Breve descrição | Python, Flask |
+| [Nome do Projeto 2](link-do-repo) | Breve descrição | React, Node.js |
+| [Nome do Projeto 3](link-do-repo) | Breve descrição | SQL, Django |
+
+---
+
+## 📈 Estatísticas GitHub
+
+![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
+
+---
+
+## 📎 Links úteis
+
+- 🌐 [Meu site pessoal](https://seudominio.com)
+- 📄 [Currículo PDF](link-do-pdf)
+- 🐦 [Twitter](https://twitter.com/seu_usuario)
