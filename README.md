@@ -10,9 +10,8 @@
 
 Interessado pela intersecção entre dados e finanças. de soluções criativas. Trabalho com:
 
-- 💻 Linguagens: R, Python e VBA.
-- 🔧 Ferramentas: Git, Docker, VSCode, [outras]
-- 🌐 Frameworks: React, Node.js, Django, [outros]
+- 💻 Linguagens: SQL, R, Python, VBA e Apps Script.
+- 🔧 Ferramentas: Power BI, Tableau, VSCode e Excel.
 
 Atualmente estou:
 
