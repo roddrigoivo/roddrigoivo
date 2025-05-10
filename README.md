@@ -30,9 +30,3 @@ Atualmente estou:
 | [Nome do Projeto 3](link-do-repo) | Breve descrição | SQL, Django |
 
 ---
-
-## 📈 Estatísticas GitHub
-
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
-
----
