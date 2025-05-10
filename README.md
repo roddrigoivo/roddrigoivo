@@ -37,9 +37,3 @@ Atualmente estou:
 ![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
 
 ---
-
-## 📎 Links úteis
-
-- 🌐 [Meu site pessoal](https://seudominio.com)
-- 📄 [Currículo PDF](link-do-pdf)
-- 🐦 [Twitter](https://twitter.com/seu_usuario)
