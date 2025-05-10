@@ -11,7 +11,7 @@
 Interessado pela intersecção entre dados e finanças. de soluções criativas. Trabalho com:
 
 - 💻 Linguagens -> SQL, R, Python, VBA e Apps Script.
-- 🔧 Ferramentas -> Power BI, Databricks, Metabase Tableau, VSCode e Excel.
+- 🔧 Ferramentas -> Power BI, Databricks, Metabase, Tableau, VSCode e Excel.
 
 Atualmente estou:
 
