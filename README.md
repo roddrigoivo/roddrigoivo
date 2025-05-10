@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o Rodrigo Ivo!
+# ✨ Oi, eu sou o Rodrigo Ivo!
 
 🎯 Desenvolvedor | 💡 Interessado na transformação de dados em insights acionáveis para negócios.<br>
 📍 [Localização: SP - Brasil]<br>
