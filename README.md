@@ -25,8 +25,8 @@ Atualmente estou:
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Nome do Projeto 1](link-do-repo) | Breve descrição | Python, Flask |
-| [Nome do Projeto 2](link-do-repo) | Breve descrição | React, Node.js |
-| [Nome do Projeto 3](link-do-repo) | Breve descrição | SQL, Django |
+| [Nome do Projeto 1](link-do-repo) | Breve descrição | SQL, R |
+| [Nome do Projeto 2](link-do-repo) | Breve descrição | Python, R |
+| [Nome do Projeto 3](link-do-repo) | Breve descrição | Excel, Python |
 
 ---
