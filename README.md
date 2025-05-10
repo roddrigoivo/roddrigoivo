@@ -1,16 +1,16 @@
 # 👋 Oi, eu sou o Rodrigo Ivo!
 
 🎯 Desenvolvedor | 💡 Entusiasta de [tecnologias ou áreas de interesse]  
-📍 Localização: [Sua cidade/país]  
-📫 Entre em contato: [seu.email@exemplo.com] | [LinkedIn](https://linkedin.com/in/seu-usuario)
+📍 Localização: [SP - Brasil]  
+📫 Entre em contato: [rodrigoivo.profissional@gmail.com]
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de soluções criativas. Trabalho com:
+Interessado pela intersecção entre dados e finanças. de soluções criativas. Trabalho com:
 
-- 💻 Linguagens: Python, JavaScript, [outras]
+- 💻 Linguagens: R, Python, VBA.
 - 🔧 Ferramentas: Git, Docker, VSCode, [outras]
 - 🌐 Frameworks: React, Node.js, Django, [outros]
 
