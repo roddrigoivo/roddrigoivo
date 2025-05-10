@@ -10,14 +10,14 @@
 
 Interessado pela intersecção entre dados e finanças. de soluções criativas. Trabalho com:
 
-- 💻 Linguagens: SQL, R, Python, VBA e Apps Script.
-- 🔧 Ferramentas: Power BI, Tableau, VSCode e Excel.
+- 💻 Linguagens -> SQL, R, Python, VBA e Apps Script.
+- 🔧 Ferramentas -> Power BI, Tableau, VSCode e Excel.
 
 Atualmente estou:
 
-- 🧠 Aprendendo: [Tecnologia que você está estudando]
-- 👨‍💻 Trabalhando em: [Projeto atual]
-- 📚 Escrevendo sobre: [Tópico que você escreve, se for o caso]
+- 🧠 Aprendendo -> Power Query (M)
+- 👨‍💻 Trabalhando -> Experimentos com dados públicos do governo.
+- 📚 Escrevendo sobre -> Análise de experimentos com dados públicos do governo.
 
 ---
 
