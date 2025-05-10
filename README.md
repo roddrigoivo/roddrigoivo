@@ -1,8 +1,8 @@
 # 👋 Oi, eu sou o Rodrigo Ivo!
 
-🎯 Desenvolvedor | 💡 Entusiasta de [tecnologias ou áreas de interesse]  
-📍 Localização: [SP - Brasil]  
-📫 Entre em contato: [rodrigoivo.profissional@gmail.com]
+🎯 Desenvolvedor | 💡 Interessado na transformação de dados em insights acionáveis para negócios.
+📍 Localização: SP - Brasil
+📫 Entre em contato: rodrigoivo.profissional@gmail.com
 
 ---
 
